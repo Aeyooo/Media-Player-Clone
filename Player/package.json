@@ -15,6 +15,7 @@
     "@types/node": "^18.17.0",
     "@vueuse/nuxt": "^10.2.1",
     "eslint-config-prettier": "^8.8.0",
-    "nuxt": "^3.6.5"
+    "nuxt": "^3.6.5",
+    "nuxt-icon": "^0.4.2"
   }
 }

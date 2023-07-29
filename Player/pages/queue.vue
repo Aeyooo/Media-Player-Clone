@@ -1,5 +1,7 @@
 <template>
-   <div class="hi bg-[#272727ff] text-[white]">gigvkk </div>
+    <div>
+
+    </div>
 </template>
 
 <script setup lang="ts">
