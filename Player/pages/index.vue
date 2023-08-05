@@ -1,5 +1,5 @@
 <template>
-   <div class="hi bg-[#272727ff] text-[white]">gigvkk </div>
+   <Contents />
 </template>
 
 <script setup lang="ts">

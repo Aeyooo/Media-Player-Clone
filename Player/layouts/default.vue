@@ -41,7 +41,9 @@
                 </NuxtLink>
         </aside>
         <div class="contents col-start-2 col-end-3 bg-[#272727ff]">
-        <slot/>
+        <div class="slot bg-[#272727ff] text-[white]">
+            <slot/>
+        </div>
         </div>
         <div class="song-template w-screen border-t-[1px] border-[black] bg-[#272727ff] ">
             
