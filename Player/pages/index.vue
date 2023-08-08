@@ -1,5 +1,5 @@
 <template>
-   <Contents />
+   <div>Aeyo</div>
 </template>
 
 <script setup lang="ts">
